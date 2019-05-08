@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fenneljs.github.io/blog</id>
-    <title>undefined Blog</title>
+    <title>Fennel Blog</title>
     <updated>2017-10-24T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://fenneljs.github.io/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest undefined news and events.</subtitle>
+    <subtitle>The best place to stay up-to-date with the latest Fennel news and events.</subtitle>
     <logo>https://fenneljs.github.io/img/fennel.svg</logo>
     <rights>Copyright © 2019 Fennel JS</rights>
     <entry>
